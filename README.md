@@ -1,42 +1,43 @@
 # actions-training-notes
-TODO:
-Create an action
+
 
 ## Before the training
 
-Initialize the following repositories:
+Check if new version of the slides have been uploaded:
+https://github.com/ps-resources/es-offerings-assets/tree/main/gh-actions-fundamentals
 
+
+Initialize the following repositories:
 https://github.com/ps-actions-sandbox/demo-workflow-syntax in your own account
 
-https://github.com/ps-actions-sandbox/demo-environments-secrets in the enterprise account https://github.com/EficodeRND 
+https://github.com/ps-actions-sandbox/ActionsFundamentals
+Create a repo from that template and make them go into the issues there.
 
-https://github.com/ps-actions-sandbox/demo-workflow-templates in EficodeRND
+Documentation
+https://docs.github.com/en/actions
 
-https://github.com/ps-actions-sandbox/.github in EficodeRND
-
-
-
-# During
+# Day 1
 Make sure that you open up the presentation in presenter mode.
 
-First thing:
-https://github.com/sofusalbertsen/Actions-fundamentals
-Make them go into the issues there.
-
-
-https://docs.github.com/en/actions/creating-actions/about-custom-actions
-
-https://github.blog/changelog/2021-11-10-github-actions-input-types-for-manual-workflows/ 
+Make them go into the templated repo (Actions fundamental)
 
 1. Demo
-
 - basic workflow https://github.com/sofusalbertsen/demo-workflow-syntax 
+
 
 1. Hands on:
 https://github.com/ps-actions-sandbox/ActionsFundamentals
+Make them create a repo from that template and use the hol
+
+Actions:
+Starter repos
+- Container: https://github.com/actions/container-action
+- Javascript: https://github.com/actions/javascript-action
 
 Break:
+https://vclock.com/set-timer-for-10-minutes/
 https://vclock.com/set-timer-for-15-minutes/
+https://vclock.com/set-timer-for-20-minutes/
 
 2. Demo
 Create your own action
@@ -49,11 +50,10 @@ Create your own action
           myInput: sofus
 ```
 
-https://github.com/octokit
+# Day 2
+
+Demoing things from: https://github.com/EficodeDemoOrg
 
 
-
-- github action marketplace https://github.com/marketplace?type=actions
-
-- Github action documentation 
-
+Environments and secrets demo:
+https://github.com/EficodeDemoOrg/demo-environments-secrets/tree/main/.github/workflows

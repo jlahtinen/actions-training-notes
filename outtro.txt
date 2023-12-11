@@ -1,0 +1,21 @@
+https://docs.github.com/en/actions/deployment/security-hardening-your-deployments/configuring-openid-connect-in-amazon-web-services
+
+https://github.com/github/roadmap/issues/772
+
+
+
+Sofus Albertsen
+Linkedin: https://www.linkedin.com/in/sofusalbertsen/
+Email: sofusalbertsen@eficode.com
+Further exercises:
+https://github.com/eficode-academy/github-actions-katas
+
+Documentation:
+https://docs.github.com/en/actions
+
+Changelog for Github Actions:
+https://github.blog/changelog/label/actions/
+
+Link to slides: 
+https://eficloud.eficode.com/nextcloud/s/N2ZKGMpADnb87Ew
+Password: Lfq33mLpmH

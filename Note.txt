@@ -1,0 +1,2 @@
+You can create your own runners based on GH:
+https://github.com/actions/runner-images/blob/main/docs/create-image-and-azure-resources.md

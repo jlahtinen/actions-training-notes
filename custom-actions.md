@@ -13,3 +13,17 @@ https://docs.github.com/en/actions/creating-actions/creating-a-javascript-action
 Composite action:
 https://github.com/actions/upload-pages-artifact/blob/main/action.yml
 
+
+name: my-first-workflow
+on: [workflow_dispatch]
+jobs:
+  hello-world:
+    runs-on: ubuntu-latest
+    steps:
+      - name: output hello world
+        run: echo hello world
+      - name: show github context
+        run: echo '${{ toJSON(github)}}'
+      - uses: sofusalbertsen/custom-action@main
+        with:
+          myInput: "sofus"
