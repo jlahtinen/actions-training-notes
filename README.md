@@ -52,8 +52,13 @@ Create your own action
 
 # Day 2
 
-Demoing things from: https://github.com/EficodeDemoOrg
+1. Demo
+demo secrets yml
+  
+2. Demo
+mixed actions
 
+Demoing things from: https://github.com/EficodeDemoOrg
 
 Environments and secrets demo:
 https://github.com/EficodeDemoOrg/demo-environments-secrets/tree/main/.github/workflows
